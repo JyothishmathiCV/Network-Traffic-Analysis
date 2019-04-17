@@ -3,8 +3,8 @@
 #empty_field	(empty)
 #unset_field	-
 #path	reporter
-#open	2019-04-17-11-37-16
+#open	2019-04-17-11-49-53
 #fields	ts	level	message	location
 #types	time	enum	string	string
 1541080326.165913	Reporter::WARNING	Your trace file likely has invalid TCP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Bro unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Bro analyzes the actual checksums that are transmitted.	/usr/share/bro/base/misc/find-checksum-offloading.bro, line 54
-#close	2019-04-17-11-37-33
+#close	2019-04-17-11-50-11

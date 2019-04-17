@@ -64,7 +64,7 @@ event bro_init() {
     # STD_DEV also calculates average
     local r1 = SumStats::Reducer($stream="http.access_intervals", $apply=set(SumStats::STD_DEV));
     local r2 = SumStats::Reducer($stream="http.access", $apply=set(SumStats::SUM));
-    Log::create_stream(LOG, [$columns=Info, $path="heartbeat"]);
+    Log::create_stream(LOG, [$columns=Info, $path="heartbeat2"]);
     SumStats::create([
                     $name="http.access_intervals.avg",
                     $epoch=1min,

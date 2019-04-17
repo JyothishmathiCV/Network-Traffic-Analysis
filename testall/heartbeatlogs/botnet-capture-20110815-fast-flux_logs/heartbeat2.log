@@ -1,0 +1,14 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	heartbeat2
+#open	2019-04-17-11-48-29
+#fields	src	dst_url	total	periodic
+#types	string	string	string	string
+147.32.84.165	897234kjdsf4523234.com/ajax.php	2	31.82 s +- 2.23
+147.32.84.165	by151w.bay151.mail.live.com/mail/mail.fpp?cnmn=Microsoft.Msn.Hotmail.Ui.Fpp.MailBox.GetInboxData&ptid=0&a=VCjIvlwEbfc8XaGFatQvuw%3d%3d&au=3462231823022754758	1	8.81 s +- 0.00
+147.32.84.165	mail.live.com/default.aspx	1	1.32 s +- 0.00
+147.32.84.165	mail.live.com/default.aspx	1	6.45 s +- 0.00
+147.32.84.165	897234kjdsf4523234.com/ajax.php	2	36.24 s +- 8.45
+#close	2019-04-17-11-48-29

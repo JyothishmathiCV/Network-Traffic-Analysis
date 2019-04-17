@@ -3,9 +3,9 @@
 #empty_field	(empty)
 #unset_field	-
 #path	out_log_5
-#open	2019-04-17-11-35-49
+#open	2019-04-17-11-48-27
 #fields	source_ip	destination_ip	destination_url	total_requests	periodicity
 #types	addr	addr	string	count	double
 147.32.84.165	-	adquorum.com	13	0.000443
 147.32.84.165	94.63.150.52	-	26	0.000443
-#close	2019-04-17-11-35-49
+#close	2019-04-17-11-48-27

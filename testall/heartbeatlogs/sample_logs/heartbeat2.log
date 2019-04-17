@@ -1,0 +1,10 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	heartbeat2
+#open	2019-04-17-11-50-07
+#fields	src	dst_url	total	periodic
+#types	string	string	string	string
+192.168.1.189	ds.download.windowsupdate.com/v11/2/windowsupdate/redir/v6-win7sp1-wuredir.cab?1811020945	1	0.00 s +- 0.00
+#close	2019-04-17-11-50-11

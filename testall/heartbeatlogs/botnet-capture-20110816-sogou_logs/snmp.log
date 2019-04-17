@@ -3,8 +3,8 @@
 #empty_field	(empty)
 #unset_field	-
 #path	snmp
-#open	2019-04-17-11-35-54
+#open	2019-04-17-11-48-32
 #fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	duration	version	community	get_requests	get_bulk_requests	get_responses	set_requests	display_string	up_since
 #types	time	string	addr	port	addr	port	interval	string	string	count	count	count	count	string	time
-1313496444.552046	CwXUuO3CMsSGpthqud	147.32.84.79	55951	147.32.84.165	161	3.009791	1	public	4	0	0	0	-	-
-#close	2019-04-17-11-35-54
+1313496444.552046	CZbPk04STnDujyF9o1	147.32.84.79	55951	147.32.84.165	161	3.009791	1	public	4	0	0	0	-	-
+#close	2019-04-17-11-48-32
