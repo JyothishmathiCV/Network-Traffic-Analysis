@@ -3,9 +3,9 @@
 #empty_field	(empty)
 #unset_field	-
 #path	files
-#open	2019-04-12-11-22-29
+#open	2019-04-17-11-31-44
 #fields	ts	fuid	tx_hosts	rx_hosts	conn_uids	source	depth	analyzers	mime_type	filename	duration	local_orig	is_orig	seen_bytes	total_bytes	missing_bytes	overflow_bytes	timedout	parent_fuid	md5	sha1	sha256	extracted	extracted_cutoff	extracted_size
 #types	time	string	set[addr]	set[addr]	set[string]	string	count	set[string]	string	string	interval	bool	bool	count	count	count	count	bool	string	string	string	string	string	bool	count
-1313161152.171269	Fy9oAx1jLDirZfhaVf	74.207.254.18	147.32.84.165	C2Ak8Y3RfBtbgZKMYj	HTTP	0	(empty)	text/html	-	0.000000	-	F	301	301	0	0	F	-	-	-	-	-	-	-
-1313240664.641332	Fo3McC1Z0zG90ximd6	95.100.248.24	147.32.84.165	CqPBli4IVoElXHYdCf	HTTP	0	(empty)	-	-	0.000000	-	F	558	558	0	0	F	-	-	-	-	-	-	-
-#close	2019-04-12-11-22-38
+1313161152.171269	Fy9oAx1jLDirZfhaVf	74.207.254.18	147.32.84.165	C7WMjJ2rIjHquurl0d	HTTP	0	(empty)	text/html	-	0.000000	-	F	301	301	0	0	F	-	-	-	-	-	-	-
+1313240664.641332	Fo3McC1Z0zG90ximd6	95.100.248.24	147.32.84.165	C9e4cM3YIoP10HSZEc	HTTP	0	(empty)	-	-	0.000000	-	F	558	558	0	0	F	-	-	-	-	-	-	-
+#close	2019-04-17-11-31-54

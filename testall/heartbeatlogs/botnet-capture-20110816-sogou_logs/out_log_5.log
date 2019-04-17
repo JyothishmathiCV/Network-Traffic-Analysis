@@ -3,9 +3,9 @@
 #empty_field	(empty)
 #unset_field	-
 #path	out_log_5
-#open	2019-04-12-11-26-36
+#open	2019-04-17-11-35-52
 #fields	source_ip	destination_ip	destination_url	total_requests	periodicity
 #types	addr	addr	string	count	double
 147.32.84.165	-	ie.sogou.com	23	0.962691
 147.32.84.165	123.126.51.33	-	83	0.001972
-#close	2019-04-12-11-26-36
+#close	2019-04-17-11-35-52

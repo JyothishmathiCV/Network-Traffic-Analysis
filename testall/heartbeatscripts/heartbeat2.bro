@@ -1,5 +1,5 @@
-@load base/protocols/http
-@load base/protocols/conn
+#@load base/protocols/http
+#@load base/protocols/conn
 @load base/frameworks/sumstats
 
 module Heartbeat;
@@ -64,10 +64,10 @@ event bro_init() {
     # STD_DEV also calculates average
     local r1 = SumStats::Reducer($stream="http.access_intervals", $apply=set(SumStats::STD_DEV));
     local r2 = SumStats::Reducer($stream="http.access", $apply=set(SumStats::SUM));
-    Log::create_stream(LOG, [$columns=Info, $path="heartbeat2"]);
+    Log::create_stream(LOG, [$columns=Info, $path="heartbeat"]);
     SumStats::create([
                     $name="http.access_intervals.avg",
-                    $epoch=48hrs,
+                    $epoch=1min,
                     $reducers=set(r1,r2),
                     $epoch_result(ts: time,key: SumStats::Key, result: SumStats::Result) = {
                         local res1 = result["http.access_intervals"];
@@ -115,5 +115,4 @@ event http_header (c: connection, is_orig: bool, name: string, value: string)
         }
     }
 }
-
 

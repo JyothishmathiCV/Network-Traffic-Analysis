@@ -3,16 +3,16 @@
 #empty_field	(empty)
 #unset_field	-
 #path	files
-#open	2019-04-12-11-27-59
+#open	2019-04-17-11-37-16
 #fields	ts	fuid	tx_hosts	rx_hosts	conn_uids	source	depth	analyzers	mime_type	filename	duration	local_orig	is_orig	seen_bytes	total_bytes	missing_bytes	overflow_bytes	timedout	parent_fuid	md5	sha1	sha256	extracted	extracted_cutoff	extracted_size
 #types	time	string	set[addr]	set[addr]	set[string]	string	count	set[string]	string	string	interval	bool	bool	count	count	count	count	bool	string	string	string	string	string	bool	count
-1541080375.551937	FuajTr44ByBHSc2kqh	117.18.237.29	192.168.1.189	CsGZy62sNQZ6T94QTk	HTTP	0	(empty)	application/ocsp-response	-	0.000000	-	F	471	471	0	0	F	-	-	-	-	-	-	-
-1541081673.280087	F1NnMOFd68E7zvl5k	117.18.237.29	192.168.1.189	CeyitE33Hoip8Bamk2	HTTP	0	(empty)	application/ocsp-response	-	0.000000	-	F	471	471	0	0	F	-	-	-	-	-	-	-
-1541084399.706431	Fgn0ZP1fy5PJHipUH7	124.124.40.17	192.168.1.189	ChK9mq2ICbWBLevpV7	HTTP	0	(empty)	-	-	0.000000	-	F	8	8	0	0	F	-	-	-	-	-	-	-
-1541092477.210207	FoEKy041Z61yTQs8j3	216.58.200.138	192.168.1.189	C3ZTmm2JMbprejhGi8	SSL	0	MD5,SHA1,X509	application/pkix-cert	-	0.000000	-	F	1064	-	0	0	F	-	0b2f236d0f18464266576f1aa40fa4b7	616b6120feb7efe76e8d4c32bc45ac5976b9e128	-	-	-	-
-1541092477.210207	FyUcdi1RoUpnuaJ0f	216.58.200.138	192.168.1.189	C3ZTmm2JMbprejhGi8	SSL	0	MD5,SHA1,X509	application/pkix-cert	-	0.000000	-	F	1120	-	0	0	F	-	c4b81c95681acacb644c0770add564e1	eeacbd0cb452819577911e1e6203db262f84a318	-	-	-	-
-1541095594.045816	FI54932X3oDYpksJda	192.168.1.7	192.168.1.189	CFVVYf4ABSJh0TUIUh	HTTP	0	(empty)	-	-	0.000000	-	F	75	-	0	0	F	-	-	-	-	-	-	-
-1541095594.255170	FXj2Br3IBgIajWfkF4	192.168.1.20	192.168.1.189	CmYu2o4dLcbBdJcxtd	HTTP	0	(empty)	-	-	0.501489	-	F	2823	11351	2896	0	F	-	-	-	-	-	-	-
-1541097372.332039	FkBvgF2Uc9H5C7PIL5	192.168.1.20	192.168.1.189	C8QKlSywBFiBL8wQ4	HTTP	0	(empty)	-	-	0.559772	-	F	11351	11351	0	0	F	-	-	-	-	-	-	-
-1541097372.908951	FEmAGBzcPEwHgrL7j	192.168.1.7	192.168.1.189	C9LAWK1W697trkGTkh	HTTP	0	(empty)	-	-	0.000000	-	F	75	-	0	0	F	-	-	-	-	-	-	-
-#close	2019-04-12-11-28-17
+1541080375.551937	FuajTr44ByBHSc2kqh	117.18.237.29	192.168.1.189	CnDv991C2TX9MHnD2h	HTTP	0	(empty)	application/ocsp-response	-	0.000000	-	F	471	471	0	0	F	-	-	-	-	-	-	-
+1541081673.280087	F1NnMOFd68E7zvl5k	117.18.237.29	192.168.1.189	CsjQ7Q1kw9Wsx7a9L7	HTTP	0	(empty)	application/ocsp-response	-	0.000000	-	F	471	471	0	0	F	-	-	-	-	-	-	-
+1541084399.706431	Fgn0ZP1fy5PJHipUH7	124.124.40.17	192.168.1.189	Cgqba63PEIwWJ01474	HTTP	0	(empty)	-	-	0.000000	-	F	8	8	0	0	F	-	-	-	-	-	-	-
+1541092477.210207	FoEKy041Z61yTQs8j3	216.58.200.138	192.168.1.189	CgWSztlCOkNNlI5Mf	SSL	0	SHA1,MD5,X509	application/pkix-cert	-	0.000000	-	F	1064	-	0	0	F	-	0b2f236d0f18464266576f1aa40fa4b7	616b6120feb7efe76e8d4c32bc45ac5976b9e128	-	-	-	-
+1541092477.210207	FyUcdi1RoUpnuaJ0f	216.58.200.138	192.168.1.189	CgWSztlCOkNNlI5Mf	SSL	0	SHA1,MD5,X509	application/pkix-cert	-	0.000000	-	F	1120	-	0	0	F	-	c4b81c95681acacb644c0770add564e1	eeacbd0cb452819577911e1e6203db262f84a318	-	-	-	-
+1541095594.045816	FI54932X3oDYpksJda	192.168.1.7	192.168.1.189	CUfepf2O4hOiOuXiW6	HTTP	0	(empty)	-	-	0.000000	-	F	75	-	0	0	F	-	-	-	-	-	-	-
+1541095594.255170	FXj2Br3IBgIajWfkF4	192.168.1.20	192.168.1.189	C2iz0C4yXlKNT7grha	HTTP	0	(empty)	-	-	0.501489	-	F	2823	11351	2896	0	F	-	-	-	-	-	-	-
+1541097372.332039	FkBvgF2Uc9H5C7PIL5	192.168.1.20	192.168.1.189	ConJv74WQD2utKUkrj	HTTP	0	(empty)	-	-	0.559772	-	F	11351	11351	0	0	F	-	-	-	-	-	-	-
+1541097372.908951	FEmAGBzcPEwHgrL7j	192.168.1.7	192.168.1.189	Chs6QN2MZC1KCgullg	HTTP	0	(empty)	-	-	0.000000	-	F	75	-	0	0	F	-	-	-	-	-	-	-
+#close	2019-04-17-11-37-33

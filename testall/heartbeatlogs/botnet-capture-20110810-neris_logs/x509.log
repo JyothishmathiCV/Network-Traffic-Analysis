@@ -3,7 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	x509
-#open	2019-04-12-11-27-05
+#open	2019-04-17-11-36-22
 #fields	ts	id	certificate.version	certificate.serial	certificate.subject	certificate.issuer	certificate.not_valid_before	certificate.not_valid_after	certificate.key_alg	certificate.sig_alg	certificate.key_type	certificate.key_length	certificate.exponent	certificate.curve	san.dns	san.uri	san.email	san.ip	basic_constraints.ca	basic_constraints.path_len
 #types	time	string	count	string	string	string	time	time	string	string	string	count	string	string	vector[string]	vector[string]	vector[string]	vector[addr]	bool	count
 1312968322.844861	FUsQDhlgiuMuMoFq6	3	781440ACDCC0AA6F06FF4035A1FE69E3	CN=account.live.com,OU=Windows Live Operations,O=Microsoft Corporation,street=One Microsoft Way,L=Redmond,ST=Washington,postalCode=98052,C=US,serialNumber=600413485,businessCategory=Private Organization,jurisdictionST=Washington,jurisdictionC=US	CN=VeriSign Class 3 Extended Validation SSL CA,OU=Terms of use at https://www.verisign.com/rpa (c)06,OU=VeriSign Trust Network,O=VeriSign\\, Inc.,C=US	1306089000.000000	1337711399.000000	rsaEncryption	sha1WithRSAEncryption	rsa	2048	65537	-	account.live.com,signup.live.com	-	-	-	F	-
@@ -104,4 +104,4 @@
 1312982497.344248	FCDhQK1fj4SP6ABb2k	3	5B7759C61784E15EC727C0329529286B	CN=VeriSign Class 3 Extended Validation SSL CA,OU=Terms of use at https://www.verisign.com/rpa (c)06,OU=VeriSign Trust Network,O=VeriSign\\, Inc.,C=US	CN=VeriSign Class 3 Public Primary Certification Authority - G5,OU=(c) 2006 VeriSign\\, Inc. - For authorized use only,OU=VeriSign Trust Network,O=VeriSign\\, Inc.,C=US	1162924200.000000	1478543399.000000	rsaEncryption	sha1WithRSAEncryption	rsa	2048	65537	-	-	-	-	-	T	0
 1312982518.935000	F4jval1x7kabimVw3g	3	781440ACDCC0AA6F06FF4035A1FE69E3	CN=account.live.com,OU=Windows Live Operations,O=Microsoft Corporation,street=One Microsoft Way,L=Redmond,ST=Washington,postalCode=98052,C=US,serialNumber=600413485,businessCategory=Private Organization,jurisdictionST=Washington,jurisdictionC=US	CN=VeriSign Class 3 Extended Validation SSL CA,OU=Terms of use at https://www.verisign.com/rpa (c)06,OU=VeriSign Trust Network,O=VeriSign\\, Inc.,C=US	1306089000.000000	1337711399.000000	rsaEncryption	sha1WithRSAEncryption	rsa	2048	65537	-	account.live.com,signup.live.com	-	-	-	F	-
 1312982518.935000	FO5tiS3e32DKgsKX31	3	5B7759C61784E15EC727C0329529286B	CN=VeriSign Class 3 Extended Validation SSL CA,OU=Terms of use at https://www.verisign.com/rpa (c)06,OU=VeriSign Trust Network,O=VeriSign\\, Inc.,C=US	CN=VeriSign Class 3 Public Primary Certification Authority - G5,OU=(c) 2006 VeriSign\\, Inc. - For authorized use only,OU=VeriSign Trust Network,O=VeriSign\\, Inc.,C=US	1162924200.000000	1478543399.000000	rsaEncryption	sha1WithRSAEncryption	rsa	2048	65537	-	-	-	-	-	T	0
-#close	2019-04-12-11-27-15
+#close	2019-04-17-11-36-31
