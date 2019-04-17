@@ -3,26 +3,26 @@
 #empty_field	(empty)
 #unset_field	-
 #path	rdp
-#open	2019-04-17-11-47-05
+#open	2019-04-17-15-35-50
 #fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	cookie	result	security_protocol	keyboard_layout	client_build	client_name	client_dig_product_id	desktop_width	desktop_height	requested_color_depth	cert_type	cert_count	cert_permanent	encryption_level	encryption_method
 #types	time	string	addr	port	addr	port	string	string	string	string	string	string	string	count	count	string	string	count	bool	string	string
-1313583892.916955	C0pM58442lNOiNAzS1	113.70.243.53	3813	147.32.84.208	3389	a	Success	RDP	English - United States	RDP 5.1	a	(empty)	10	10	8bit	RSA	1	T	Client compatible	128bit
-1313583915.649281	Ce2Lcu3kaUIKcPK9G5	113.70.243.53	3906	147.32.84.208	3389	a	Success	RDP	English - United States	RDP 5.1	a	(empty)	10	10	8bit	RSA	1	T	Client compatible	128bit
-1313583937.205566	Ckolb3AElqjU5ifg6	113.70.243.53	3992	147.32.84.208	3389	a	Success	RDP	English - United States	RDP 5.1	a	(empty)	10	10	8bit	RSA	1	T	Client compatible	128bit
-1313583990.127389	CJinTs3hZcooAWgIk3	113.70.243.53	4129	147.32.84.208	3389	a	Success	RDP	English - United States	RDP 5.1	a	(empty)	10	10	8bit	RSA	1	T	Client compatible	128bit
-1313584022.208295	C6POYM2KBwcNJhjWU3	113.70.243.53	4260	147.32.84.208	3389	a	Success	RDP	English - United States	RDP 5.1	a	(empty)	10	10	8bit	RSA	1	T	Client compatible	128bit
-1313584083.687215	CRKNTpQEVdguAJbSb	113.70.243.53	4547	147.32.84.208	3389	a	Success	RDP	English - United States	RDP 5.1	a	(empty)	10	10	8bit	RSA	1	T	Client compatible	128bit
-1313584117.454835	CeAeeh1VUpRWI9jjSg	113.70.243.53	4662	147.32.84.208	3389	a	Success	RDP	English - United States	RDP 5.1	a	(empty)	10	10	8bit	RSA	1	T	Client compatible	128bit
-1313584141.057990	C33CYf1lUkLWO6OoU	113.70.243.53	4743	147.32.84.208	3389	a	Success	RDP	English - United States	RDP 5.1	a	(empty)	10	10	8bit	RSA	1	T	Client compatible	128bit
-1313584160.242956	CAsowN1T5DsBl83uUj	113.70.243.53	4828	147.32.84.208	3389	a	Success	RDP	English - United States	RDP 5.1	a	(empty)	10	10	8bit	RSA	1	T	Client compatible	128bit
-1313584190.050968	Cm899w1rc3itgxv4Yh	113.70.243.53	4911	147.32.84.208	3389	a	Success	RDP	English - United States	RDP 5.1	a	(empty)	10	10	8bit	RSA	1	T	Client compatible	128bit
-1313584216.853871	CPvMda2yBJpP25luac	113.70.243.53	1103	147.32.84.208	3389	a	Success	RDP	English - United States	RDP 5.1	a	(empty)	10	10	8bit	RSA	1	T	Client compatible	128bit
-1313584236.678773	CybCcMikO4GQMhZDf	113.70.243.53	1178	147.32.84.208	3389	a	Success	RDP	English - United States	RDP 5.1	a	(empty)	10	10	8bit	RSA	1	T	Client compatible	128bit
-1313584265.803991	CQTzrxEtBxryok16f	113.70.243.53	1253	147.32.84.208	3389	a	Success	RDP	English - United States	RDP 5.1	a	(empty)	10	10	8bit	RSA	1	T	Client compatible	128bit
-1313584332.271414	CJWxBc4xsG2bR3F935	113.70.243.53	1522	147.32.84.208	3389	a	Success	RDP	English - United States	RDP 5.1	a	(empty)	10	10	8bit	RSA	1	T	Client compatible	128bit
-1313584350.662006	C4L1yZ1FMERTn5p6w2	113.70.243.53	1580	147.32.84.208	3389	a	Success	RDP	English - United States	RDP 5.1	a	(empty)	10	10	8bit	RSA	1	T	Client compatible	128bit
-1313584390.493579	CUbvS54mrGJkMJiYWb	113.70.243.53	1736	147.32.84.208	3389	a	Success	RDP	English - United States	RDP 5.1	a	(empty)	10	10	8bit	RSA	1	T	Client compatible	128bit
-1313584449.867708	CPbQOdzil0sn8FODa	113.70.243.53	1916	147.32.84.208	3389	a	Success	RDP	English - United States	RDP 5.1	a	(empty)	10	10	8bit	RSA	1	T	Client compatible	128bit
-1313584465.747619	CS18EWGNXc1upWok8	113.70.243.53	1997	147.32.84.208	3389	a	Success	RDP	English - United States	RDP 5.1	a	(empty)	10	10	8bit	RSA	1	T	Client compatible	128bit
-1313584485.724764	CWtjiBCgTFDPGwoQ3	113.70.243.53	2076	147.32.84.208	3389	a	Success	RDP	English - United States	RDP 5.1	a	(empty)	10	10	8bit	RSA	1	T	Client compatible	128bit
-#close	2019-04-17-11-48-02
+1313583892.916955	CG2pnUC7p0l8Vx9Le	113.70.243.53	3813	147.32.84.208	3389	a	Success	RDP	English - United States	RDP 5.1	a	(empty)	10	10	8bit	RSA	1	T	Client compatible	128bit
+1313583915.649281	C7Dzuy28o0zXsjqV33	113.70.243.53	3906	147.32.84.208	3389	a	Success	RDP	English - United States	RDP 5.1	a	(empty)	10	10	8bit	RSA	1	T	Client compatible	128bit
+1313583937.205566	CyLLZQNxve4uUkCv5	113.70.243.53	3992	147.32.84.208	3389	a	Success	RDP	English - United States	RDP 5.1	a	(empty)	10	10	8bit	RSA	1	T	Client compatible	128bit
+1313583990.127389	Ceosus3MhPcRx2oIUg	113.70.243.53	4129	147.32.84.208	3389	a	Success	RDP	English - United States	RDP 5.1	a	(empty)	10	10	8bit	RSA	1	T	Client compatible	128bit
+1313584022.208295	C1Esp52N1JqH9dlrje	113.70.243.53	4260	147.32.84.208	3389	a	Success	RDP	English - United States	RDP 5.1	a	(empty)	10	10	8bit	RSA	1	T	Client compatible	128bit
+1313584083.687215	CepCJC3FHj9IJIG37f	113.70.243.53	4547	147.32.84.208	3389	a	Success	RDP	English - United States	RDP 5.1	a	(empty)	10	10	8bit	RSA	1	T	Client compatible	128bit
+1313584117.454835	CqFuJR34Y4PY7Kwxu1	113.70.243.53	4662	147.32.84.208	3389	a	Success	RDP	English - United States	RDP 5.1	a	(empty)	10	10	8bit	RSA	1	T	Client compatible	128bit
+1313584141.057990	Cg9Y8n3ls8EfSovyh	113.70.243.53	4743	147.32.84.208	3389	a	Success	RDP	English - United States	RDP 5.1	a	(empty)	10	10	8bit	RSA	1	T	Client compatible	128bit
+1313584160.242956	CHPC0hiTiHk3I57ql	113.70.243.53	4828	147.32.84.208	3389	a	Success	RDP	English - United States	RDP 5.1	a	(empty)	10	10	8bit	RSA	1	T	Client compatible	128bit
+1313584190.050968	ClyhOyserHZcDcG17	113.70.243.53	4911	147.32.84.208	3389	a	Success	RDP	English - United States	RDP 5.1	a	(empty)	10	10	8bit	RSA	1	T	Client compatible	128bit
+1313584216.853871	Cab8RW3Pb6Hq0NSQC1	113.70.243.53	1103	147.32.84.208	3389	a	Success	RDP	English - United States	RDP 5.1	a	(empty)	10	10	8bit	RSA	1	T	Client compatible	128bit
+1313584236.678773	CCLYzB43U4SlrsNkni	113.70.243.53	1178	147.32.84.208	3389	a	Success	RDP	English - United States	RDP 5.1	a	(empty)	10	10	8bit	RSA	1	T	Client compatible	128bit
+1313584265.803991	CfHXhM3IUAwFX1Glgg	113.70.243.53	1253	147.32.84.208	3389	a	Success	RDP	English - United States	RDP 5.1	a	(empty)	10	10	8bit	RSA	1	T	Client compatible	128bit
+1313584332.271414	CJFEvA2HUjfBRGlIX9	113.70.243.53	1522	147.32.84.208	3389	a	Success	RDP	English - United States	RDP 5.1	a	(empty)	10	10	8bit	RSA	1	T	Client compatible	128bit
+1313584350.662006	CwPGA22go40WgNmjw2	113.70.243.53	1580	147.32.84.208	3389	a	Success	RDP	English - United States	RDP 5.1	a	(empty)	10	10	8bit	RSA	1	T	Client compatible	128bit
+1313584390.493579	ClZaE75LKOwmAlTvg	113.70.243.53	1736	147.32.84.208	3389	a	Success	RDP	English - United States	RDP 5.1	a	(empty)	10	10	8bit	RSA	1	T	Client compatible	128bit
+1313584449.867708	C2zizm1Gln8zqKbAP7	113.70.243.53	1916	147.32.84.208	3389	a	Success	RDP	English - United States	RDP 5.1	a	(empty)	10	10	8bit	RSA	1	T	Client compatible	128bit
+1313584465.747619	C5v8l24tSsoadSLuSj	113.70.243.53	1997	147.32.84.208	3389	a	Success	RDP	English - United States	RDP 5.1	a	(empty)	10	10	8bit	RSA	1	T	Client compatible	128bit
+1313584485.724764	Cibnrq2I2J7WDjdXo1	113.70.243.53	2076	147.32.84.208	3389	a	Success	RDP	English - United States	RDP 5.1	a	(empty)	10	10	8bit	RSA	1	T	Client compatible	128bit
+#close	2019-04-17-15-36-47

@@ -3,8 +3,8 @@
 #empty_field	(empty)
 #unset_field	-
 #path	out_log_5
-#open	2019-04-17-11-48-45
+#open	2019-04-17-15-37-30
 #fields	source_ip	destination_ip	destination_url	total_requests	periodicity
 #types	addr	addr	string	count	double
 147.32.84.165	74.125.232.196	-	4	0.0
-#close	2019-04-17-11-48-45
+#close	2019-04-17-15-37-30

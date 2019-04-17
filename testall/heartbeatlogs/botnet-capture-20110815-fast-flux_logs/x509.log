@@ -3,7 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	x509
-#open	2019-04-17-11-48-29
+#open	2019-04-17-15-37-14
 #fields	ts	id	certificate.version	certificate.serial	certificate.subject	certificate.issuer	certificate.not_valid_before	certificate.not_valid_after	certificate.key_alg	certificate.sig_alg	certificate.key_type	certificate.key_length	certificate.exponent	certificate.curve	san.dns	san.uri	san.email	san.ip	basic_constraints.ca	basic_constraints.path_len
 #types	time	string	count	string	string	string	time	time	string	string	string	count	string	string	vector[string]	vector[string]	vector[string]	vector[addr]	bool	count
 1313420293.461480	F4OqwT2CjESWAnnTL7	3	781440ACDCC0AA6F06FF4035A1FE69E3	CN=account.live.com,OU=Windows Live Operations,O=Microsoft Corporation,street=One Microsoft Way,L=Redmond,ST=Washington,postalCode=98052,C=US,serialNumber=600413485,businessCategory=Private Organization,jurisdictionST=Washington,jurisdictionC=US	CN=VeriSign Class 3 Extended Validation SSL CA,OU=Terms of use at https://www.verisign.com/rpa (c)06,OU=VeriSign Trust Network,O=VeriSign\\, Inc.,C=US	1306089000.000000	1337711399.000000	rsaEncryption	sha1WithRSAEncryption	rsa	2048	65537	-	account.live.com,signup.live.com	-	-	-	F	-
@@ -123,4 +123,4 @@
 1313420731.673694	Flx55L2aMO59H8yWQe	3	11EBCCFD000800020CF2	CN=mail.live.com,OU=WindowsLive,O=Microsoft,L=Redmond,ST=WA,C=US	CN=Microsoft Secure Server Authority,DC=redmond,DC=corp,DC=microsoft,DC=com	1303822964.000000	1366894964.000000	rsaEncryption	sha1WithRSAEncryption	rsa	1024	65537	-	*.mail.live.com,*.hotmail.com,hotmail.com,hotmail.msn.com,hotmail.co.jp,hotmail.co.uk,hotmail.live.com,www.hotmail.msn.com,mail.live.com,people.live.com,contacts.live.com	-	-	-	-	-
 1313420731.673694	F70eXi1P1f03MsjMu9	3	61033336000500000030	CN=Microsoft Secure Server Authority,DC=redmond,DC=corp,DC=microsoft,DC=com	CN=Microsoft Internet Authority	1274287410.000000	1400518410.000000	rsaEncryption	sha1WithRSAEncryption	rsa	2048	65537	-	-	-	-	-	T	0
 1313420731.673694	FgelMU1zOmJC5CsrYj	3	07276202	CN=Microsoft Internet Authority	CN=GTE CyberTrust Global Root,OU=GTE CyberTrust Solutions\\, Inc.,O=GTE Corporation,C=US	1271248946.000000	1523709734.000000	rsaEncryption	sha1WithRSAEncryption	rsa	4096	65537	-	-	-	-	-	T	1
-#close	2019-04-17-11-48-29
+#close	2019-04-17-15-37-14

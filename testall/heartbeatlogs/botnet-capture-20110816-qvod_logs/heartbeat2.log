@@ -3,14 +3,14 @@
 #empty_field	(empty)
 #unset_field	-
 #path	heartbeat2
-#open	2019-04-17-11-43-50
+#open	2019-04-17-15-32-34
 #fields	src	dst_url	total	periodic
 #types	string	string	string	string
 147.32.84.165	zxc.78rr.cn:3389/tool/train/c.txt	1	60.86 s +- 0.00
 147.32.84.165	zxc.78rr.cn:3389/tool/train/c.txt	1	60.85 s +- 0.00
 147.32.84.165	zxc.78rr.cn:3389/tool/train/c.txt	1	60.85 s +- 0.00
-147.32.84.165	zxc.78rr.cn:3389/tool/train/c.txt	1	60.85 s +- 0.00
 147.32.84.165	www.caifu5678.cn:81/rc/xms/gx2.txt	1	0.00 s +- 0.00
+147.32.84.165	zxc.78rr.cn:3389/tool/train/c.txt	1	60.85 s +- 0.00
 147.32.84.165	zxc.78rr.cn:3389/tool/train/c.txt	1	60.85 s +- 0.00
 147.32.84.165	zxc.78rr.cn:3389/tool/train/c.txt	1	60.86 s +- 0.00
 147.32.84.165	zxc.78rr.cn:3389/tool/train/c.txt	1	60.87 s +- 0.00
@@ -1036,4 +1036,4 @@
 147.32.84.165	zxc.78rr.cn:3389/tool/train/c.txt	1	60.64 s +- 0.00
 147.32.84.165	zxc.78rr.cn:3389/tool/train/c.txt	1	60.63 s +- 0.00
 147.32.84.165	zxc.78rr.cn:3389/tool/train/c.txt	1	60.63 s +- 0.00
-#close	2019-04-17-11-43-52
+#close	2019-04-17-15-32-36

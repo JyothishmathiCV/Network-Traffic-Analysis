@@ -3,11 +3,11 @@
 #empty_field	(empty)
 #unset_field	-
 #path	snmp
-#open	2019-04-17-11-49-00
+#open	2019-04-17-15-37-45
 #fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	duration	version	community	get_requests	get_bulk_requests	get_responses	set_requests	display_string	up_since
 #types	time	string	addr	port	addr	port	interval	string	string	count	count	count	count	string	time
-1312970556.058479	C11QEzqJdcFFoaYee	147.32.84.79	51033	147.32.84.165	161	3.008334	1	public	4	0	0	0	-	-
-1312974453.838061	Cm88s113LJelgYl3ai	147.32.84.79	44158	147.32.84.165	161	3.008739	1	public	4	0	0	0	-	-
-1312978054.083771	CJjPTv19P6zb9Q40J6	147.32.84.79	48629	147.32.84.165	161	3.009708	1	public	4	0	0	0	-	-
-1312981655.430122	COs4O32px3Yni9g8Wg	147.32.84.79	38807	147.32.84.165	161	3.010803	1	public	4	0	0	0	-	-
-#close	2019-04-17-11-49-09
+1312970556.058479	CIiNPQf9uelajoVcj	147.32.84.79	51033	147.32.84.165	161	3.008334	1	public	4	0	0	0	-	-
+1312974453.838061	Ca9yGe2gyPdh2cCVG	147.32.84.79	44158	147.32.84.165	161	3.008739	1	public	4	0	0	0	-	-
+1312978054.083771	CzyW6B2S26Ttb4JVai	147.32.84.79	48629	147.32.84.165	161	3.009708	1	public	4	0	0	0	-	-
+1312981655.430122	CnYHQC4ATcKuz6xp0f	147.32.84.79	38807	147.32.84.165	161	3.010803	1	public	4	0	0	0	-	-
+#close	2019-04-17-15-37-54

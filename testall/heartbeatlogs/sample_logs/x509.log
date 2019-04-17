@@ -3,9 +3,9 @@
 #empty_field	(empty)
 #unset_field	-
 #path	x509
-#open	2019-04-17-11-50-05
+#open	2019-04-17-15-38-50
 #fields	ts	id	certificate.version	certificate.serial	certificate.subject	certificate.issuer	certificate.not_valid_before	certificate.not_valid_after	certificate.key_alg	certificate.sig_alg	certificate.key_type	certificate.key_length	certificate.exponent	certificate.curve	san.dns	san.uri	san.email	san.ip	basic_constraints.ca	basic_constraints.path_len
 #types	time	string	count	string	string	string	time	time	string	string	string	count	string	string	vector[string]	vector[string]	vector[string]	vector[addr]	bool	count
 1541092477.210207	FoEKy041Z61yTQs8j3	3	12F880DE7B6AD4E5	CN=*.googleapis.com,O=Google LLC,L=Mountain View,ST=California,C=US	CN=Google Internet Authority G3,O=Google Trust Services,C=US	1539670080.000000	1546927680.000000	id-ecPublicKey	sha256WithRSAEncryption	ecdsa	256	-	prime256v1	*.googleapis.com,*.clients6.google.com,*.cloudendpointsapis.com,cloudendpointsapis.com,googleapis.com	-	-	-	F	-
 1541092477.210207	FyUcdi1RoUpnuaJ0f	3	01E3A9301CFC7206383F9A531D	CN=Google Internet Authority G3,O=Google Trust Services,C=US	CN=GlobalSign,O=GlobalSign,OU=GlobalSign Root CA - R2	1497465042.000000	1639506642.000000	rsaEncryption	sha256WithRSAEncryption	rsa	2048	65537	-	-	-	-	-	T	0
-#close	2019-04-17-11-50-11
+#close	2019-04-17-15-38-56
