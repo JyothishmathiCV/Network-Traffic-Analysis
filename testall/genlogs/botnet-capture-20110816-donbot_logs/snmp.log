@@ -1,0 +1,11 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	snmp
+#open	2019-04-15-10-16-04
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	duration	version	community	get_requests	get_bulk_requests	get_responses	set_requests	display_string	up_since
+#types	time	string	addr	port	addr	port	interval	string	string	count	count	count	count	string	time
+1313485341.021302	Cob1ex2wKUrXb9NZx5	147.32.84.79	35591	147.32.84.165	161	3.006257	1	public	4	0	0	0	-	-
+1313488945.690437	Cohvmf47FaC4ROGMGg	147.32.84.79	60833	147.32.84.165	161	3.008171	1	public	4	0	0	0	-	-
+#close	2019-04-15-10-16-05

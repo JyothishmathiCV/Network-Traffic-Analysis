@@ -1,0 +1,84 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	http
+#open	2019-04-16-14-38-27
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	trans_depth	method	host	uri	referrer	version	user_agent	request_body_len	response_body_len	status_code	status_msg	info_code	info_msg	tags	username	password	proxied	orig_fuids	orig_filenames	orig_mime_types	resp_fuids	resp_filenames	resp_mime_types
+#types	time	string	addr	port	addr	port	count	string	string	string	string	string	string	count	count	count	string	count	string	set[enum]	string	string	set[string]	vector[string]	vector[string]	vector[string]	vector[string]	vector[string]	vector[string]
+1541080375.551937	CezkqU2Pv9TTQkwWc7	192.168.1.189	45334	117.18.237.29	80	1	-	-	-	-	1.1	-	0	471	200	OK	-	-	(empty)	-	-	-	-	-	-	FuajTr44ByBHSc2kqh	-	application/ocsp-response
+1541080470.004322	Cbl1s3WUlCUo19t3g	192.168.1.189	49787	104.197.3.80	80	1	-	-	-	-	1.1	-	0	0	204	No Content	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541080770.095220	CxXKSE4nzmoI2zawgl	192.168.1.189	58141	104.198.143.177	80	1	-	-	-	-	1.1	-	0	0	204	No Content	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541081070.033770	Cn1NHi4et9GEfKylq3	192.168.1.189	52467	104.197.3.80	80	1	-	-	-	-	1.1	-	0	0	204	No Content	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541081373.599844	CXjTM03Xrds3aVdq0f	192.168.1.189	51041	104.198.143.177	80	1	-	-	-	-	1.1	-	0	0	204	No Content	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541081673.280087	CAN4EK1ifho2kDS841	192.168.1.189	45630	117.18.237.29	80	1	-	-	-	-	1.1	-	0	471	200	OK	-	-	(empty)	-	-	-	-	-	-	F1NnMOFd68E7zvl5k	-	application/ocsp-response
+1541081673.604509	C7v7cB3rr9jgdxazQa	192.168.1.189	54109	104.198.143.177	80	1	-	-	-	-	1.1	-	0	0	204	No Content	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541081970.032122	C07z1e16n4CRxsvaA7	192.168.1.189	52835	104.197.3.80	80	1	-	-	-	-	1.1	-	0	0	204	No Content	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541082270.615062	CKp59U2DLYvOHRxrb4	192.168.1.189	50259	104.198.143.177	80	1	-	-	-	-	1.1	-	0	0	204	No Content	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541082570.007055	CE2GjY2n6WnomEwDwa	192.168.1.189	42685	104.197.3.80	80	1	-	-	-	-	1.1	-	0	0	204	No Content	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541082870.035275	Crj2774KcvtWEIDNS8	192.168.1.189	59233	104.197.3.80	80	1	-	-	-	-	1.1	-	0	0	204	No Content	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541083177.138473	C0ZeSp1ZE374oEYWrg	192.168.1.189	36009	104.198.143.177	80	1	-	-	-	-	1.1	-	0	0	204	No Content	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541083478.100249	CmoiC5D5fNqJCKubh	192.168.1.189	34825	104.198.143.177	80	1	-	-	-	-	1.1	-	0	0	204	No Content	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541083770.003150	COI6wd1KT0ej7BsX6j	192.168.1.189	57239	104.197.3.80	80	1	-	-	-	-	1.1	-	0	0	204	No Content	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541084070.027596	C0efFe2CqpSOph4yck	192.168.1.189	37317	104.197.3.80	80	1	-	-	-	-	1.1	-	0	0	204	No Content	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541084399.706431	Cgsqxo3DfKkL0D2yS3	192.168.1.189	35858	124.124.40.17	80	1	-	-	-	-	1.1	-	0	8	200	OK	-	-	(empty)	-	-	-	-	-	-	Fgn0ZP1fy5PJHipUH7	-	-
+1541084598.543185	CLkTlg1aF1kV1wcyP1	192.168.1.189	49179	192.229.232.240	80	1	GET	www.download.windowsupdate.com	/msdownload/update/v3/static/trustedr/en/authrootstl.cab?401e6a225295036a	-	1.1	Microsoft-CryptoAPI/6.1	0	0	304	Not Modified	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541084577.061166	CUhGnt1tZ3QQy9hePj	192.168.1.189	49178	104.119.51.157	80	1	GET	www.microsoft.com	/pkiops/crl/Microsoft Update Signing CA 2.3.crl	-	-	Microsoft-CryptoAPI/6.1	0	0	-	-	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541084598.738033	C7eT7K3lhUHSwuHzBd	192.168.1.189	49180	23.15.148.43	80	1	GET	www.microsoft.com	/pkiops/crl/Microsoft Update Secure Server CA 2.1.crl	-	-	Microsoft-CryptoAPI/6.1	0	0	-	-	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541084673.623083	COovt8vcRn7Hj6o48	192.168.1.189	48797	104.198.143.177	80	1	-	-	-	-	1.1	-	0	0	204	No Content	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541084670.032384	CCElDq3OVTIR63MBOk	192.168.1.189	49181	23.15.148.43	80	1	GET	www.microsoft.com	/pkiops/crl/Microsoft Update Signing CA 2.3.crl	-	-	Microsoft-CryptoAPI/6.1	0	0	-	-	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541084670.263060	CFxHDtIxfP62MSA52	192.168.1.189	49182	23.15.148.43	80	1	GET	www.microsoft.com	/pkiops/crl/Microsoft Update Secure Server CA 2.1.crl	-	-	Microsoft-CryptoAPI/6.1	0	0	-	-	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541084977.635118	CXR1Cu3m6bNsGlasD9	192.168.1.189	52419	104.198.143.177	80	1	-	-	-	-	1.1	-	0	0	204	No Content	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541084981.891765	CCuUCweW5UvfLOcif	192.168.1.189	49183	23.15.148.43	80	1	GET	www.microsoft.com	/pkiops/crl/Microsoft Update Signing CA 2.3.crl	-	-	Microsoft-CryptoAPI/6.1	0	0	-	-	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541084992.138245	CV7kP33qVPYuG2cAs7	192.168.1.189	49186	23.15.148.43	80	1	GET	www.microsoft.com	/pkiops/crl/Microsoft Update Secure Server CA 2.1.crl	-	-	Microsoft-CryptoAPI/6.1	0	0	-	-	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541085270.006797	CIl9bWua8YT1K5Iqe	192.168.1.189	51897	104.197.3.80	80	1	-	-	-	-	1.1	-	0	0	204	No Content	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541085570.224146	CY3rvs3LBoowcWEfKi	192.168.1.189	53643	104.197.3.80	80	1	-	-	-	-	1.1	-	0	0	204	No Content	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541085877.325631	CJ57S543dltuY0TLP7	192.168.1.189	58765	104.198.143.177	80	1	-	-	-	-	1.1	-	0	0	204	No Content	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541086185.418222	CUpRDkxVgWxqGeZRe	192.168.1.189	55681	104.198.143.177	80	1	-	-	-	-	1.1	-	0	0	204	No Content	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541086470.033196	CYdKv027wcW6V40CA6	192.168.1.189	40983	104.197.3.80	80	1	-	-	-	-	1.1	-	0	0	204	No Content	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541087069.996040	CGBk9r2tMorsECthz3	192.168.1.189	49461	104.197.3.80	80	1	-	-	-	-	1.1	-	0	0	204	No Content	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541087370.035729	CxI6m83bz9DRJ9z9S8	192.168.1.189	38913	104.197.3.80	80	1	-	-	-	-	1.1	-	0	0	204	No Content	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541087671.884384	CqfNi83swC5Pee9eE	192.168.1.189	49147	104.198.143.177	80	1	-	-	-	-	1.1	-	0	0	204	No Content	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541088270.066786	CwM5rN3IzKYVKgDo77	192.168.1.189	35249	104.197.3.80	80	1	-	-	-	-	1.1	-	0	0	204	No Content	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541088570.144011	CILokg2nXPoHDbUk5d	192.168.1.189	38879	104.198.143.177	80	1	-	-	-	-	1.1	-	0	0	204	No Content	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541088871.521288	CDULI042zKnt2U6Hj5	192.168.1.189	35995	104.197.3.80	80	1	-	-	-	-	1.1	-	0	0	204	No Content	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541089185.444445	C1BNI93l8PkD1ZWGw4	192.168.1.189	46503	104.198.143.177	80	1	-	-	-	-	1.1	-	0	0	204	No Content	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541089770.058371	CQvTxX1V6cz4x6QNye	192.168.1.189	46701	104.197.3.80	80	1	-	-	-	-	1.1	-	0	0	204	No Content	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541090070.034890	CCQO9M1YWEkaauCZYi	192.168.1.189	36271	104.197.3.80	80	1	-	-	-	-	1.1	-	0	0	204	No Content	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541090370.035722	CktCBC3bClbg2pKcwb	192.168.1.189	42751	104.197.3.80	80	1	-	-	-	-	1.1	-	0	0	204	No Content	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541090670.752579	C55ZHE1ojJKQniV5m9	192.168.1.189	56269	104.198.143.177	80	1	-	-	-	-	1.1	-	0	0	204	No Content	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541090971.715106	C1LKbM1Pk9furB0H24	192.168.1.189	45843	104.198.143.177	80	1	-	-	-	-	1.1	-	0	0	204	No Content	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541091270.566248	Cr7K161TelzmTvLri7	192.168.1.189	55107	104.197.3.80	80	1	-	-	-	-	1.1	-	0	0	204	No Content	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541091585.498849	C8NiXY3BzQS23f9p05	192.168.1.189	53501	104.198.143.177	80	1	-	-	-	-	1.1	-	0	0	204	No Content	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541091871.354610	CV8VFT2p96moFu8H71	192.168.1.189	38419	104.197.3.80	80	1	-	-	-	-	1.1	-	0	0	204	No Content	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541092189.889236	CiYLHw47CDlWAzK5Ma	192.168.1.189	39601	104.198.143.177	80	1	-	-	-	-	1.1	-	0	0	204	No Content	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541092471.039489	CDyziFdFLcpSPyPOc	192.168.1.189	53367	104.197.3.80	80	1	-	-	-	-	1.1	-	0	0	204	No Content	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541092771.150636	CihDG9th1LG450qOa	192.168.1.189	41845	104.198.143.177	80	1	-	-	-	-	1.1	-	0	0	204	No Content	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541093070.055585	CHmAOv4Swu6SSVo6Ch	192.168.1.189	45503	104.197.3.80	80	1	-	-	-	-	1.1	-	0	0	204	No Content	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541093370.938172	CPhAS022UxHsjkDZa8	192.168.1.189	55109	104.198.143.177	80	1	-	-	-	-	1.1	-	0	0	204	No Content	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541093670.936207	CYfUvL1Q5aSzYv8rhe	192.168.1.189	60551	104.198.143.177	80	1	-	-	-	-	1.1	-	0	0	204	No Content	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541093970.067068	ChEKtH7SreHqbQIQ4	192.168.1.189	47161	104.197.3.80	80	1	-	-	-	-	1.1	-	0	0	204	No Content	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541094270.594426	CtWaVV10DQnCY8vSYi	192.168.1.189	47731	104.197.3.80	80	1	-	-	-	-	1.1	-	0	0	204	No Content	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541094337.773319	C04qgI1TuQz40o6fU8	192.168.1.189	49215	13.107.4.50	80	1	HEAD	ds.download.windowsupdate.com	/v11/2/windowsupdate/redir/v6-win7sp1-wuredir.cab?1811020945	-	1.1	Windows-Update-Agent	0	0	200	OK	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541094340.223019	C04qgI1TuQz40o6fU8	192.168.1.189	49215	13.107.4.50	80	2	HEAD	ds.download.windowsupdate.com	/v11/2/windowsupdate/redir/v6-win7sp1-wuredir.cab?1811020945	-	1.1	Windows-Update-Agent	0	0	200	OK	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541094570.059737	CNSCM74wWZNhL6UMZ3	192.168.1.189	36217	104.197.3.80	80	1	-	-	-	-	1.1	-	0	0	204	No Content	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541094870.036560	C6NXTo4iEOWyHLYi89	192.168.1.189	49391	104.198.143.177	80	1	-	-	-	-	1.1	-	0	0	204	No Content	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541095170.074616	C5gIYz2YpcbUXHPYe1	192.168.1.189	49341	104.197.3.80	80	1	-	-	-	-	1.1	-	0	0	204	No Content	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541095480.771444	CoopXE28BlJmMcKum9	192.168.1.189	40295	104.198.143.177	80	1	-	-	-	-	1.1	-	0	0	204	No Content	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541095524.714548	CD66i13pgeubbvofMl	192.168.1.189	49221	13.107.4.50	80	1	HEAD	ds.download.windowsupdate.com	/v11/2/windowsupdate/redir/v6-win7sp1-wuredir.cab?1811021005	-	1.1	Windows-Update-Agent	0	0	200	OK	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541095526.396639	CD66i13pgeubbvofMl	192.168.1.189	49221	13.107.4.50	80	2	HEAD	ds.download.windowsupdate.com	/v11/3/windowsupdate/selfupdate/WSUS3/x86/Win7SP1/wsus3setup.cab?1811021005	-	1.1	Windows-Update-Agent	0	0	200	OK	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541095529.884705	CD66i13pgeubbvofMl	192.168.1.189	49221	13.107.4.50	80	3	HEAD	ds.download.windowsupdate.com	/v11/2/windowsupdate/redir/v6-win7sp1-wuredir.cab?1811021005	-	1.1	Windows-Update-Agent	0	0	200	OK	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541095594.039899	C4rZRXzvWVP5RNL03	192.168.1.189	49020	192.168.1.7	631	1	-	-	-	-	1.1	-	0	75	200	OK	100	Continue	(empty)	-	-	-	-	-	-	FI54932X3oDYpksJda	-	-
+1541095594.252457	Ce42Ex32wqiMWtdzU9	192.168.1.189	58410	192.168.1.20	631	1	-	-	-	-	1.1	-	0	5719	200	OK	100	Continue	(empty)	-	-	-	-	-	-	FXj2Br3IBgIajWfkF4	-	-
+1541095770.080830	Cuhfk1ATTxH7fSH0d	192.168.1.189	36937	104.197.3.80	80	1	-	-	-	-	1.1	-	0	0	204	No Content	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541096070.085833	CHmpu80xvJqbVVBJf	192.168.1.189	49121	104.197.3.80	80	1	-	-	-	-	1.1	-	0	0	204	No Content	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541096370.214532	CQbcxH3yeIYvYklfq	192.168.1.189	57485	104.198.143.177	80	1	-	-	-	-	1.1	-	0	0	204	No Content	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541096670.097392	C03qPk15PsmHvYoCaj	192.168.1.189	34779	104.197.3.80	80	1	-	-	-	-	1.1	-	0	0	204	No Content	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541096970.189198	CykCge3aRGjpHoJ01h	192.168.1.189	42805	104.198.143.177	80	1	-	-	-	-	1.1	-	0	0	204	No Content	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541097270.009174	Ct2DbM3LXiJ1A2G1K8	192.168.1.189	48845	104.198.143.177	80	1	-	-	-	-	1.1	-	0	0	204	No Content	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541097372.329310	CbgN26QqDut7MB4Dh	192.168.1.189	58796	192.168.1.20	631	1	-	-	-	-	1.1	-	0	11351	200	OK	100	Continue	(empty)	-	-	-	-	-	-	FkBvgF2Uc9H5C7PIL5	-	-
+1541097372.902926	CnLOmP17xInKJKNoV1	192.168.1.189	49410	192.168.1.7	631	1	-	-	-	-	1.1	-	0	75	200	OK	100	Continue	(empty)	-	-	-	-	-	-	FEmAGBzcPEwHgrL7j	-	-
+1541097570.093078	CqFN9A4WsNxPIAkuji	192.168.1.189	38803	104.197.3.80	80	1	-	-	-	-	1.1	-	0	0	204	No Content	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541097870.012999	CTQy6w2y3JbPDBFDbe	192.168.1.189	42681	104.198.143.177	80	1	-	-	-	-	1.1	-	0	0	204	No Content	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1541098171.093156	CLdtw8QY26Y3DK6X5	192.168.1.189	48137	104.197.3.80	80	1	-	-	-	-	1.1	-	0	0	204	No Content	-	-	(empty)	-	-	-	-	-	-	-	-	-
+#close	2019-04-16-14-38-47

@@ -1,0 +1,19 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	heartbeat2
+#open	2019-04-12-11-27-15
+#fields	src	dst_url	total	periodic
+#types	string	string	string	string
+147.32.84.165	www.lddwj.com/r.php?a=v&n=401	4	1.70 s +- 2.34
+147.32.84.165	www.generalamuse.com/gen.php	3	0.12 s +- 0.10
+147.32.84.165	ad.yieldmanager.com/st?anmember=541&anprice=&ad_type=ad&ad_size=300x250&section=2056437&referrer=http://www.netygames.com/netgame.html	1	0.05 s +- 0.00
+147.32.84.165	content.yieldmanager.com/ak/q.gif	1	0.00 s +- 0.00
+147.32.84.165	www.zkaoo.com/g1.php?u=hhhh&v=6&m=04FCFD6F-083E-4377-A1F3-FEF727AEF499	4	0.00 s +- 0.00
+147.32.84.165	ib.adnxs.com/ptj?member=541&size=300x250&inv_code=2056437&referrer=http://www.netygames.com/netgame.html&redir=http%3A%2F%2Fad.yieldmanager.com%2Fst%3Fanmember%3D541%26anprice%3D%7BPRICEBUCKET%7D%26ad_type%3Dad%26ad_size%3D300x250%26section%3D2056437%26referrer%3Dhttp%3A%2F%2Fwww.netygames.com%2Fnetgame.html	1	0.03 s +- 0.00
+147.32.84.165	www.lddwj.com/g1.php?u=hhhh&v=6&m=04FCFD6F-083E-4377-A1F3-FEF727AEF499	4	0.30 s +- 0.60
+147.32.84.165	adserving.cpxinteractive.com/st?ad_type=ad&ad_size=300x250&section=2056437&referrer=http://www.netygames.com/netgame.html	1	0.02 s +- 0.00
+147.32.84.165	a.95622.com/p6.asp?MAC=08-00-27-B5-B7-19&Publicer=dc99	25	18.75 s +- 11.70
+147.32.84.165	1.95622.com/p6.asp?MAC=08-00-27-B5-B7-19&Publicer=dc99	134	33.34 s +- 41.58
+#close	2019-04-12-11-27-15

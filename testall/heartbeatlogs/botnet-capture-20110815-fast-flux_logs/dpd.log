@@ -1,0 +1,38 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	dpd
+#open	2019-04-12-11-26-34
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	proto	analyzer	failure_reason
+#types	time	string	addr	port	addr	port	enum	string	string
+1313420308.729780	CIluidMr2Yss5X267	147.32.84.165	1341	212.117.171.138	65500	tcp	DCE_RPC	Binpac exception: binpac exception: out_of_bound: DCE_RPC_PDU:frag: -26041 > 19638
+1313420319.938110	C2CJZ92NwpuXUEAc3c	147.32.84.165	1357	212.117.171.138	65500	tcp	DCE_RPC	Binpac exception: binpac exception: out_of_bound: DCE_RPC_PDU:frag: -37320 > 16190
+1313420333.529077	ChjW8G4ol81BAznKEk	147.32.84.165	1374	212.117.171.138	65500	tcp	DCE_RPC	Binpac exception: binpac exception: out_of_bound: DCE_RPC_PDU:frag: -15558 > 36780
+1313420346.403320	CNBj5y1k0GUUqdBj3b	147.32.84.165	1390	212.117.171.138	65500	tcp	DCE_RPC	Binpac exception: binpac exception: out_of_bound: DCE_RPC_PDU:frag: -23366 > 22250
+1313420385.513692	ClEWoX2OogstBfmzvh	147.32.84.165	1412	212.117.171.138	65500	tcp	DCE_RPC	Binpac exception: binpac exception: out_of_bound: DCE_RPC_PDU:frag: -8 > 8224
+1313420437.259530	CfXmwa2lj5UQBER3K9	147.32.84.165	1442	212.117.171.138	65500	tcp	DCE_RPC	Binpac exception: binpac exception: out_of_bound: DCE_RPC_PDU:frag: -3526 > 9829
+1313420491.043912	CFTCon4sl4zYdICSH2	147.32.84.165	1491	212.117.171.138	65500	tcp	DCE_RPC	Binpac exception: binpac exception: out_of_bound: DCE_RPC_PDU:frag: -401 > 65050
+1313420549.927938	C3c78u4xLIWtplDRDb	147.32.84.165	1545	212.117.171.138	65500	tcp	DCE_RPC	Binpac exception: binpac exception: out_of_bound: DCE_RPC_PDU:frag: -4623 > 24940
+1313420597.628644	CHGxk81Ienl91iGkyh	147.32.84.165	1570	212.117.171.138	65500	tcp	DCE_RPC	Binpac exception: binpac exception: out_of_bound: DCE_RPC_PDU:frag: -71 > 63831
+1313420653.470325	Cbj0QDY9OjAFf1Uk2	147.32.84.165	1641	212.117.171.138	65500	tcp	DCE_RPC	Binpac exception: binpac exception: out_of_bound: DCE_RPC_PDU:frag: -4622 > 24934
+1313420673.851699	CiYUAqVgZNeIAFPz3	147.32.84.165	1709	212.117.171.138	65500	tcp	DCE_RPC	Binpac exception: binpac exception: out_of_bound: DCE_RPC_PDU:frag: -8660 > 29425
+1313420679.364717	C218DyxFaec9UhSde	147.32.84.165	1728	212.117.171.138	65500	tcp	DCE_RPC	Binpac exception: binpac exception: out_of_bound: DCE_RPC_PDU:frag: -2569 > 24930
+1313420680.113033	CJatkd26CD4XUCLWic	147.32.84.165	1732	212.117.171.138	65500	tcp	DCE_RPC	Binpac exception: binpac exception: out_of_bound: DCE_RPC_PDU:frag: -10421 > 13940
+1313420683.363546	CK8KSZ1wxRc2XQ8BW6	147.32.84.165	1739	212.117.171.138	65500	tcp	DCE_RPC	Binpac exception: binpac exception: out_of_bound: DCE_RPC_PDU:frag: -1264 > 54168
+1313420683.885341	CRkEG61rvCzBWlQXS3	147.32.84.165	1742	212.117.171.138	65500	tcp	DCE_RPC	Binpac exception: binpac exception: out_of_bound: DCE_RPC_PDU:frag: -8 > 8224
+1313420685.660878	CUufgm2TUvlhZcvZbg	147.32.84.165	1746	212.117.171.138	65500	tcp	DCE_RPC	Binpac exception: binpac exception: out_of_bound: DCE_RPC_PDU:frag: -974 > 558
+1313420695.031716	Cnal334uf6aCbxkU2l	147.32.84.165	1763	212.117.171.138	65500	tcp	DCE_RPC	Binpac exception: binpac exception: out_of_bound: DCE_RPC_PDU:frag: -15441 > 35038
+1313420700.019997	Cv96Md1PzbKfM14MG2	147.32.84.165	1769	212.117.171.138	65500	tcp	DCE_RPC	Binpac exception: binpac exception: out_of_bound: DCE_RPC_PDU:frag: -25525 > 18651
+1313420705.646490	CMWl4q4o6f7qVH3sSd	147.32.84.165	1778	212.117.171.138	65500	tcp	DCE_RPC	Binpac exception: binpac exception: out_of_bound: DCE_RPC_PDU:frag: -22241 > 6036
+1313420710.731168	CI4MhT3QUIUwlxaAH8	147.32.84.165	1784	212.117.171.138	65500	tcp	DCE_RPC	Binpac exception: binpac exception: out_of_bound: DCE_RPC_PDU:frag: -9999 > 12728
+1313420727.047898	CRqb3VDJM8qdBVsnk	147.32.84.165	1812	212.117.171.138	65500	tcp	DCE_RPC	Binpac exception: binpac exception: out_of_bound: DCE_RPC_PDU:frag: -20559 > 8236
+1313420733.201879	Cizgyx2DSdqE34AIqi	147.32.84.165	1826	212.117.171.138	65500	tcp	DCE_RPC	Binpac exception: binpac exception: out_of_bound: DCE_RPC_PDU:frag: -410 > 23173
+1313420739.455852	C0Lhl43sHsgbGbwgz4	147.32.84.165	1849	212.117.171.138	65500	tcp	DCE_RPC	Binpac exception: binpac exception: out_of_bound: DCE_RPC_PDU:frag: -972 > 559
+1313420776.139136	Cou89SqYoCe6VOsz4	147.32.84.165	1925	212.117.171.138	65500	tcp	DCE_RPC	Binpac exception: binpac exception: out_of_bound: DCE_RPC_PDU:frag: -4661 > 25660
+1313420779.126969	CbY3U522HuVCBVt9Md	147.32.84.165	1928	212.117.171.138	65500	tcp	DCE_RPC	Binpac exception: binpac exception: out_of_bound: DCE_RPC_PDU:frag: -9418 > 10341
+1313420800.133427	CU3VCv1tcdfnlTtdce	147.32.84.165	1963	212.117.171.138	65500	tcp	DCE_RPC	Binpac exception: binpac exception: out_of_bound: DCE_RPC_PDU:frag: -8 > 57855
+1313420801.946233	CDK2ee1DXdjRnTczf8	147.32.84.165	1968	212.117.171.138	65500	tcp	DCE_RPC	Binpac exception: binpac exception: out_of_bound: DCE_RPC_PDU:frag: -973 > 559
+1313420819.190799	CV4bnXcsoGEzOaYjb	147.32.84.165	1988	212.117.171.138	65500	tcp	DCE_RPC	Binpac exception: binpac exception: out_of_bound: DCE_RPC_PDU:frag: -262 > 28271
+1313420821.374885	CMsUzYB9p9RGM4em7	147.32.84.165	2000	212.117.171.138	65500	tcp	DCE_RPC	Binpac exception: binpac exception: out_of_bound: DCE_RPC_PDU:frag: -5659 > 2573
+#close	2019-04-12-11-26-35

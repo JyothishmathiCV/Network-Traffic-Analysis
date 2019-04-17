@@ -1,0 +1,34 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	weird
+#open	2019-04-16-14-38-47
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	name	addl	notice	peer
+#types	time	string	addr	port	addr	port	string	string	bool	string
+1313403271.120525	CGavwQ1xM83UKw5Rn	192.168.88.121	54053	147.32.84.165	137	dns_unmatched_reply	-	F	bro
+1313403310.954027	CGavwQ1xM83UKw5Rn	192.168.88.121	54053	147.32.84.165	137	dns_unmatched_msg	-	F	bro
+1313403329.183136	CHdBzlMaaofR1fv3h	147.32.84.165	1037	86.65.39.15	6667	bad_TCP_checksum	-	F	bro
+1313403370.948961	CJV65G3rXl8owxpRvj	147.32.84.165	1025	147.32.80.9	53	dns_unmatched_msg	-	F	bro
+1313404033.922315	C8vVXbOAUyo7E0oY3	192.168.88.121	45053	147.32.84.165	137	dns_unmatched_reply	-	F	bro
+1313404044.385104	C8vVXbOAUyo7E0oY3	192.168.88.121	45053	147.32.84.165	137	dns_unmatched_msg	-	F	bro
+1313404302.648871	C0kVOj2OsHKxIvQne2	147.32.84.165	137	147.32.84.171	137	dns_unmatched_reply	-	F	bro
+1313404330.949119	CA1H4C4eJwgrTL518e	147.32.84.165	137	147.32.84.255	137	dns_unmatched_msg	-	F	bro
+1313404330.949119	C0kVOj2OsHKxIvQne2	147.32.84.165	137	147.32.84.171	137	dns_unmatched_msg	-	F	bro
+1313404357.251933	-	147.32.84.165	0	147.32.96.69	0	fragment_overlap	-	F	bro
+1313404642.894027	CeDeHbF52S0IgKtdi	147.32.84.165	1025	147.32.80.9	53	dns_unmatched_msg	-	F	bro
+1313404796.723214	Cl4cpu4yk7lYY9WOTi	192.168.88.121	39321	147.32.84.165	137	dns_unmatched_reply	-	F	bro
+1313404806.809105	Cl4cpu4yk7lYY9WOTi	192.168.88.121	39321	147.32.84.165	137	dns_unmatched_msg	-	F	bro
+1313405012.645734	Cm30Tu3vB3MsCkeNd4	147.32.84.165	1043	147.32.96.69	161	bad_UDP_checksum	-	F	bro
+1313405019.665541	-	147.32.84.165	0	147.32.96.69	0	fragment_inconsistency	-	F	bro
+1313405520.183827	CtvT9pfZv1Lps0ok3	147.32.84.165	1025	147.32.80.9	53	dns_unmatched_msg	-	F	bro
+1313405559.526091	C71AYh2BnwlSZn5Ofj	192.168.88.121	60973	147.32.84.165	137	dns_unmatched_reply	-	F	bro
+1313405569.786084	C71AYh2BnwlSZn5Ofj	192.168.88.121	60973	147.32.84.165	137	dns_unmatched_msg	-	F	bro
+1313406222.669077	Chob7gIS0v9aTuTJ8	147.32.84.165	137	147.32.84.171	137	dns_unmatched_reply	-	F	bro
+1313406250.947489	CrtkP92hvo2KK3YSPc	147.32.84.165	137	147.32.84.255	137	dns_unmatched_msg	-	F	bro
+1313406250.947489	Chob7gIS0v9aTuTJ8	147.32.84.165	137	147.32.84.171	137	dns_unmatched_msg	-	F	bro
+1313406322.327195	CJn4s7V3mZldgrBH9	192.168.88.121	36219	147.32.84.165	137	dns_unmatched_reply	-	F	bro
+1313406350.562992	CJn4s7V3mZldgrBH9	192.168.88.121	36219	147.32.84.165	137	dns_unmatched_msg	-	F	bro
+1313407085.140167	Cv5Rkq4wU01QH8oEC7	192.168.88.121	40103	147.32.84.165	137	dns_unmatched_reply	-	F	bro
+1313407114.667501	Cv5Rkq4wU01QH8oEC7	192.168.88.121	40103	147.32.84.165	137	dns_unmatched_msg	-	F	bro
+#close	2019-04-16-14-38-53

@@ -1,0 +1,22 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	weird
+#open	2019-04-15-12-06-36
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	name	addl	notice	peer
+#types	time	string	addr	port	addr	port	string	string	bool	string
+1313495785.059191	CgTKQZ235wR1SCJFtg	147.32.84.165	1041	61.135.188.210	80	unescaped_%_in_URI	-	F	bro
+1313495785.059191	CgTKQZ235wR1SCJFtg	147.32.84.165	1041	61.135.188.210	80	double_%_in_URI	-	F	bro
+1313495785.071792	CzBM0d3VngkHBWYCh7	147.32.84.165	1042	61.135.188.212	80	unescaped_%_in_URI	-	F	bro
+1313495785.071792	CzBM0d3VngkHBWYCh7	147.32.84.165	1042	61.135.188.212	80	double_%_in_URI	-	F	bro
+1313495794.036273	CK99q71BOsWrwAzeT3	147.32.84.165	1050	123.126.51.33	80	bad_TCP_checksum	-	F	bro
+1313495797.358198	CnY7Ra3RLcXtqhjgVk	147.32.84.165	1044	61.135.188.210	80	double_%_in_URI	-	F	bro
+1313495797.358198	CnY7Ra3RLcXtqhjgVk	147.32.84.165	1044	61.135.188.210	80	unescaped_%_in_URI	-	F	bro
+1313495798.323478	CjOjbL28FED6e4KGA9	147.32.84.165	1060	61.135.188.210	80	unescaped_%_in_URI	-	F	bro
+1313495798.323478	CjOjbL28FED6e4KGA9	147.32.84.165	1060	61.135.188.210	80	double_%_in_URI	-	F	bro
+1313495800.121814	CG35i42zakcLkRjCie	147.32.84.165	1065	123.126.51.65	80	inflate_failed	-	F	bro
+1313495804.686940	CYu6es3GqDtyMhfAKe	147.32.84.165	1040	147.32.80.9	53	dns_unmatched_msg	-	F	bro
+1313495810.773124	C45iyMYYSRTwSE7fj	147.32.84.165	137	147.32.84.255	137	dns_unmatched_msg	-	F	bro
+1313495824.813127	CxLJAf1x9t6xDIEAq8	147.32.84.165	1025	147.32.80.9	53	dns_unmatched_msg	-	F	bro
+#close	2019-04-15-12-06-37

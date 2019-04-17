@@ -1,0 +1,31 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	files
+#open	2019-04-12-11-26-37
+#fields	ts	fuid	tx_hosts	rx_hosts	conn_uids	source	depth	analyzers	mime_type	filename	duration	local_orig	is_orig	seen_bytes	total_bytes	missing_bytes	overflow_bytes	timedout	parent_fuid	md5	sha1	sha256	extracted	extracted_cutoff	extracted_size
+#types	time	string	set[addr]	set[addr]	set[string]	string	count	set[string]	string	string	interval	bool	bool	count	count	count	count	bool	string	string	string	string	string	bool	count
+1313495793.452621	FhMlDQ24CIj4pxjGfi	220.181.111.147	147.32.84.165	Cki0Tb3wJTgFrzXrz1	HTTP	0	(empty)	image/x-icon	-	0.000000	-	F	318	318	0	0	F	-	-	-	-	-	-	-
+1313495793.694874	Fz7mwPEMVrgnjfEQ8	61.135.188.157	147.32.84.165	Cl3eLh18LjT7tAEuEf	HTTP	0	(empty)	text/plain	-	0.000000	-	F	51	-	0	0	F	-	-	-	-	-	-	-
+1313495794.056999	FtszeH3WL3rSbAbO0c	209.85.149.160	147.32.84.165	ClZ1Ff2Rv3osO2eBM2	HTTP	0	(empty)	image/x-icon	-	0.000013	-	F	1150	1150	0	0	F	-	-	-	-	-	-	-
+1313495795.002756	F2hB7200LhpGohBh4	123.126.51.33	147.32.84.165	C1jMzs4jWPY0gHvy1l	HTTP	0	(empty)	image/x-icon	-	0.000000	-	F	1150	1150	0	0	F	-	-	-	-	-	-	-
+1313495795.185770	Fgvb681rEwIgOJJW75	61.135.188.157	147.32.84.165	C6cuWq1DUC0NkaqYo5	HTTP	0	(empty)	text/plain	-	0.000000	-	F	51	-	0	0	F	-	-	-	-	-	-	-
+1313495795.503011	FChu892h2G21urqDm8	123.126.51.33	147.32.84.165	CNZett2SrL7xCpQxWg	HTTP	0	(empty)	image/gif	-	0.000000	-	F	767	767	0	0	F	-	-	-	-	-	-	-
+1313495799.075978	FtdOKI3LraVNMDR01i	123.126.51.33	147.32.84.165	CgYH4f3Rf6gmzGtpRc	HTTP	0	(empty)	image/jpeg	-	0.940731	-	F	3894	8274	4380	0	F	-	-	-	-	-	-	-
+1313495799.132254	FMusrtZ251YNxtLc5	123.126.51.65	147.32.84.165	CLypn64cJsoCejBiw1	HTTP	0	(empty)	text/plain	-	0.989560	-	F	3794	-	8760	0	F	-	-	-	-	-	-	-
+1313495801.989980	FEXSwA4QPTzZqSeA48	123.126.51.33	147.32.84.165	CF7GS74TxFyxWVEu1j	HTTP	0	(empty)	image/gif	-	0.000000	-	F	838	838	0	0	F	-	-	-	-	-	-	-
+1313495802.467826	Fgt5663IgZfGz8luN4	123.126.51.33	147.32.84.165	CF7GS74TxFyxWVEu1j	HTTP	0	(empty)	image/gif	-	0.000000	-	F	1091	1091	0	0	F	-	-	-	-	-	-	-
+1313495802.944591	Fspv543QU2gCiU9gP8	123.126.51.33	147.32.84.165	CF7GS74TxFyxWVEu1j	HTTP	0	(empty)	image/gif	-	0.000000	-	F	604	604	0	0	F	-	-	-	-	-	-	-
+1313495803.422700	FZny4G3rtjsgbknF14	123.126.51.33	147.32.84.165	CF7GS74TxFyxWVEu1j	HTTP	0	(empty)	image/gif	-	0.000000	-	F	73	73	0	0	F	-	-	-	-	-	-	-
+1313495804.499600	FFVczu3XLs30Mcyjl9	123.126.51.33	147.32.84.165	CQBwCq43wdJuJk5Wve	HTTP	0	(empty)	image/jpeg	-	0.000000	-	F	412	412	0	0	F	-	-	-	-	-	-	-
+1313495806.303364	F2gO2t1Hs44PFh4PK	61.135.188.210	147.32.84.165	CseI3w1y2T6xnmS7V8	HTTP	0	(empty)	text/ini	-	0.000000	-	F	291	-	0	0	F	-	-	-	-	-	-	-
+1313495804.971923	FgYBXCL8S0OPnPWqb	123.126.51.33	147.32.84.165	CQBwCq43wdJuJk5Wve	HTTP	0	(empty)	image/jpeg	-	10.215335	-	F	13119	37939	24820	0	F	-	-	-	-	-	-	-
+1313495992.809117	FDx4e731DOn7WWNHn6	123.126.51.33	147.32.84.165	CzZpaR3wu9rRvkn3x3	HTTP	0	(empty)	image/x-icon	-	0.000024	-	F	2550	2550	0	0	F	-	-	-	-	-	-	-
+1313495992.832285	FhqUHo2D75QPZCgNOi	123.126.51.33	147.32.84.165	CSqMtX39nlj7NveRb9	HTTP	0	(empty)	image/gif	-	0.000000	-	F	701	701	0	0	F	-	-	-	-	-	-	-
+1313495995.812753	F5JZf53HzEQWrEhkk9	123.126.51.33	147.32.84.165	C5Ed4H3USuD2M3CbJ5	HTTP	0	(empty)	image/gif	-	0.000000	-	F	113	113	0	0	F	-	-	-	-	-	-	-
+1313495816.224233	FwLd4r1UIVUbyvolj9	218.29.42.137	147.32.84.165	Cfmboz2QFq5efTmUX	HTTP	0	PE	application/x-dosexec	-	202.181929	-	F	4075024	16578616	12503593	0	F	-	-	-	-	-	-	-
+1313495795.978896	FaztAZ2QsrdMVjWa9d	123.126.51.33	147.32.84.165	CNZett2SrL7xCpQxWg	HTTP	0	(empty)	-	-	12.755071	-	F	0	-	46490	0	T	-	-	-	-	-	-	-
+1313495800.504428	Fvo1By1Bze7Jai0eTd	123.126.51.33	147.32.84.165	CgYH4f3Rf6gmzGtpRc	HTTP	0	(empty)	-	-	4.369188	-	F	0	-	23603	0	T	-	-	-	-	-	-	-
+1313495803.898560	FzzBd33UTWl5UpwnEc	123.126.51.33	147.32.84.165	CF7GS74TxFyxWVEu1j	HTTP	0	(empty)	-	-	10.133307	-	F	0	-	12266	0	T	-	-	-	-	-	-	-
+#close	2019-04-12-11-26-38

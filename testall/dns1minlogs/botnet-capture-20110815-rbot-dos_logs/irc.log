@@ -1,0 +1,21 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	irc
+#open	2019-04-16-14-38-47
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	nick	user	command	value	addl	dcc_file_name	dcc_file_size	dcc_mime_type	fuid
+#types	time	string	addr	port	addr	port	string	string	string	string	string	string	count	string	string
+1313403328.957871	CHdBzlMaaofR1fv3h	147.32.84.165	1037	86.65.39.15	6667	-	-	NICK	Pepe024268	-	-	-	-	-
+1313403328.957871	CHdBzlMaaofR1fv3h	147.32.84.165	1037	86.65.39.15	6667	Pepe024268	-	USER	ghnnza	0 0 Pepe024268	-	-	-	-
+1313403330.644214	CHdBzlMaaofR1fv3h	147.32.84.165	1037	86.65.39.15	6667	Pepe024268	ghnnza	JOIN	#zarasa48	(empty)	-	-	-	-
+1313403330.644214	CHdBzlMaaofR1fv3h	147.32.84.165	1037	86.65.39.15	6667	Pepe024268	ghnnza	JOIN	#zarasa48	(empty)	-	-	-	-
+1313403330.644214	CHdBzlMaaofR1fv3h	147.32.84.165	1037	86.65.39.15	6667	Pepe024268	ghnnza	JOIN	#zarasa48	(empty)	-	-	-	-
+1313403330.644214	CHdBzlMaaofR1fv3h	147.32.84.165	1037	86.65.39.15	6667	Pepe024268	ghnnza	JOIN	#zarasa48	(empty)	-	-	-	-
+1313405492.281023	CNN2jP3ylNpramErx8	147.32.84.165	1082	82.96.64.4	6667	-	-	NICK	Pepe427885	-	-	-	-	-
+1313405492.281023	CNN2jP3ylNpramErx8	147.32.84.165	1082	82.96.64.4	6667	Pepe427885	-	USER	tzbzsmxe	0 0 Pepe427885	-	-	-	-
+1313405492.490029	CNN2jP3ylNpramErx8	147.32.84.165	1082	82.96.64.4	6667	Pepe427885	tzbzsmxe	JOIN	#zarasa48	(empty)	-	-	-	-
+1313405492.490029	CNN2jP3ylNpramErx8	147.32.84.165	1082	82.96.64.4	6667	Pepe427885	tzbzsmxe	JOIN	#zarasa48	(empty)	-	-	-	-
+1313405492.490029	CNN2jP3ylNpramErx8	147.32.84.165	1082	82.96.64.4	6667	Pepe427885	tzbzsmxe	JOIN	#zarasa48	(empty)	-	-	-	-
+1313405492.490029	CNN2jP3ylNpramErx8	147.32.84.165	1082	82.96.64.4	6667	Pepe427885	tzbzsmxe	JOIN	#zarasa48	(empty)	-	-	-	-
+#close	2019-04-16-14-38-53

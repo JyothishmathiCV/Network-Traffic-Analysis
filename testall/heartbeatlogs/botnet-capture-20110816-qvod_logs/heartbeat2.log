@@ -1,0 +1,11 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	heartbeat2
+#open	2019-04-12-11-21-59
+#fields	src	dst_url	total	periodic
+#types	string	string	string	string
+147.32.84.165	zxc.78rr.cn:3389/tool/train/c.txt	1029	62.52 s +- 7.89
+147.32.84.165	www.caifu5678.cn:81/rc/xms/gx2.txt	1	0.00 s +- 0.00
+#close	2019-04-12-11-21-59

@@ -1,0 +1,10 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	dnsSummary
+#open	2019-04-15-12-07-14
+#fields	srcAddr	totalDnsReq	totalDnsFail	uniqueIpAddr	failureTypesDetected	freqOfFailedReq	totalNXDomainFail	totalServFail	totalRefused	dstAddr	failedDomain	passedDomain
+#types	addr	count	count	count	set[string]	count	count	count	count	set[addr]	set[string]	set[string]
+147.32.84.165	64	0	8	(empty)	0	0	0	0	86.65.39.15,147.32.84.255,147.32.84.79,147.32.84.171,82.96.64.4,192.168.88.148,147.32.96.69,147.32.80.9	(empty)	dl.javafx.com,irc.freenode.net
+#close	2019-04-15-12-07-14

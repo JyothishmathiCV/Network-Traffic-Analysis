@@ -1,0 +1,20 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	heartbeat2
+#open	2019-04-12-11-26-31
+#fields	src	dst_url	total	periodic
+#types	string	string	string	string
+147.32.84.165	193.23.181.44/	39	0.29 s +- 0.46
+147.32.84.165	activex.microsoft.com/objects/ocget.dll	1	0.00 s +- 0.00
+147.32.84.165	72.20.15.61/	14	-0.27 s +- 0.85
+147.32.84.165	174.37.196.55/	50	0.15 s +- 0.62
+147.32.84.165	podwine.com/getjson	2	21.12 s +- 14.93
+147.32.84.165	riskslot.com/	2	0.09 s +- 0.01
+147.32.84.165	www.lddwj.com/r.php?a=v&n=4459	1	0.00 s +- 0.00
+147.32.84.165	podviajar.com/getjson	14	27.55 s +- 28.47
+147.32.84.165	www.lddwj.com/r.php?a=v&n=401	1	0.00 s +- 0.00
+147.32.84.165	174.128.246.102/	120	0.32 s +- 1.15
+147.32.84.165	www.lddwj.com/g1.php?u=hhhh&v=6&m=9C1F2D00-462D-4AE0-B00D-4A55CD7002D3	2	0.00 s +- 0.00
+#close	2019-04-12-11-26-31

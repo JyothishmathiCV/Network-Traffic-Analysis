@@ -1,0 +1,27 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	irc
+#open	2019-04-15-12-05-16
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	nick	user	command	value	addl	dcc_file_name	dcc_file_size	dcc_mime_type	fuid
+#types	time	string	addr	port	addr	port	string	string	string	string	string	string	count	string	string
+1313154062.042699	CKDgxG1iQy1k9vF0ba	147.32.84.165	1037	130.239.18.172	6667	-	-	NICK	Pepe202905	-	-	-	-	-
+1313154062.042699	CKDgxG1iQy1k9vF0ba	147.32.84.165	1037	130.239.18.172	6667	Pepe202905	-	USER	snffsgw	0 0 Pepe202905	-	-	-	-
+1313154063.764738	CKDgxG1iQy1k9vF0ba	147.32.84.165	1037	130.239.18.172	6667	Pepe202905	snffsgw	JOIN	#zarasa48	(empty)	-	-	-	-
+1313154063.764738	CKDgxG1iQy1k9vF0ba	147.32.84.165	1037	130.239.18.172	6667	Pepe202905	snffsgw	JOIN	#zarasa48	(empty)	-	-	-	-
+1313154063.764738	CKDgxG1iQy1k9vF0ba	147.32.84.165	1037	130.239.18.172	6667	Pepe202905	snffsgw	JOIN	#zarasa48	(empty)	-	-	-	-
+1313154063.764738	CKDgxG1iQy1k9vF0ba	147.32.84.165	1037	130.239.18.172	6667	Pepe202905	snffsgw	JOIN	#zarasa48	(empty)	-	-	-	-
+1313154479.343484	Ca5Ddl2iyCtCVpsRff	147.32.84.165	1027	93.152.160.101	6667	-	-	NICK	Pepe305632	-	-	-	-	-
+1313154479.343484	Ca5Ddl2iyCtCVpsRff	147.32.84.165	1027	93.152.160.101	6667	Pepe305632	-	USER	bfgicdn	0 0 Pepe305632	-	-	-	-
+1313154490.529427	Ca5Ddl2iyCtCVpsRff	147.32.84.165	1027	93.152.160.101	6667	Pepe305632	bfgicdn	JOIN	#zarasa48	(empty)	-	-	-	-
+1313154490.529427	Ca5Ddl2iyCtCVpsRff	147.32.84.165	1027	93.152.160.101	6667	Pepe305632	bfgicdn	JOIN	#zarasa48	(empty)	-	-	-	-
+1313154490.529427	Ca5Ddl2iyCtCVpsRff	147.32.84.165	1027	93.152.160.101	6667	Pepe305632	bfgicdn	JOIN	#zarasa48	(empty)	-	-	-	-
+1313154490.529427	Ca5Ddl2iyCtCVpsRff	147.32.84.165	1027	93.152.160.101	6667	Pepe305632	bfgicdn	JOIN	#zarasa48	(empty)	-	-	-	-
+1313154573.393483	CFvxRX3ylnE0B08k08	147.32.84.165	1027	38.229.70.20	6667	-	-	NICK	Pepe061664	-	-	-	-	-
+1313154573.393483	CFvxRX3ylnE0B08k08	147.32.84.165	1027	38.229.70.20	6667	Pepe061664	-	USER	uyzzmmgi	0 0 Pepe061664	-	-	-	-
+1313154583.028633	CFvxRX3ylnE0B08k08	147.32.84.165	1027	38.229.70.20	6667	Pepe061664	uyzzmmgi	JOIN	#zarasa48	(empty)	-	-	-	-
+1313154583.028633	CFvxRX3ylnE0B08k08	147.32.84.165	1027	38.229.70.20	6667	Pepe061664	uyzzmmgi	JOIN	#zarasa48	(empty)	-	-	-	-
+1313154583.028633	CFvxRX3ylnE0B08k08	147.32.84.165	1027	38.229.70.20	6667	Pepe061664	uyzzmmgi	JOIN	#zarasa48	(empty)	-	-	-	-
+1313154583.028633	CFvxRX3ylnE0B08k08	147.32.84.165	1027	38.229.70.20	6667	Pepe061664	uyzzmmgi	JOIN	#zarasa48	(empty)	-	-	-	-
+#close	2019-04-15-12-05-26

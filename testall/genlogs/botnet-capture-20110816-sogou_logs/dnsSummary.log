@@ -1,0 +1,11 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	dnsSummary
+#open	2019-04-15-10-15-45
+#fields	srcAddr	totalDnsReq	totalDnsFail	uniqueIpAddr	failureTypesDetected	freqOfFailedReq	totalNXDomainFail	totalServFail	totalRefused	dstAddr	failedDomain	passedDomain
+#types	addr	count	count	count	set[string]	count	count	count	count	set[addr]	set[string]	set[string]
+147.32.84.79	0	0	1	(empty)	0	0	0	0	147.32.84.165	(empty)	(empty)
+147.32.84.165	19	0	17	(empty)	0	0	0	0	123.126.51.57,61.135.188.212,218.29.42.137,147.32.84.79,220.181.69.213,147.32.80.9,61.135.188.157,209.85.149.160,118.228.148.32,123.126.51.65,123.126.51.33,195.113.232.73,220.181.111.147,61.135.188.210,61.135.189.50,147.32.84.255,123.126.51.64	(empty)	files.sogou.com,www.google.cn,check3.acc.sogou.com,www.sogou.com,javadl-esd.sun.com,check1.acc.sogou.com,ping.ie.sogou.com,ie.sogou.com,123.ie.sogou.com,www.baidu.com,abc.ie.sogou.com,check2.acc.sogou.com,config.acc.sogou.com,ip.acc.sogou.com,config.ie.sogou.com,i.sogou.com,pb.sogou.com
+#close	2019-04-15-10-15-45
