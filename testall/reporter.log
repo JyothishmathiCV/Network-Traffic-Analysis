@@ -1,0 +1,10 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	reporter
+#open	2019-04-17-16-27-57
+#fields	ts	level	message	location
+#types	time	enum	string	string
+1313354914.240890	Reporter::INFO	received termination signal	(empty)
+#close	2019-04-17-16-27-57

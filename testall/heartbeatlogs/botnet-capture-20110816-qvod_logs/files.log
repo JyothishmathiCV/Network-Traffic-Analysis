@@ -7,8 +7,8 @@
 #fields	ts	fuid	tx_hosts	rx_hosts	conn_uids	source	depth	analyzers	mime_type	filename	duration	local_orig	is_orig	seen_bytes	total_bytes	missing_bytes	overflow_bytes	timedout	parent_fuid	md5	sha1	sha256	extracted	extracted_cutoff	extracted_size
 #types	time	string	set[addr]	set[addr]	set[string]	string	count	set[string]	string	string	interval	bool	bool	count	count	count	count	bool	string	string	string	string	string	bool	count
 1313497468.406173	F5XZkQC4XHyD7PmBe	175.6.0.105	147.32.84.165	CAlche2731aO8e59g9	HTTP	0	(empty)	text/ini	-	0.000000	-	F	137	137	0	0	F	-	-	-	-	-	-	-
-1313497469.830449	FyuwCU6S95f0vDFx5	175.6.0.103	147.32.84.165	C1BgaO2GbhleLmnR55	HTTP	0	PE	application/x-dosexec	-	2.959883	-	F	29200	28487120	46720	0	F	-	-	-	-	-	-	-
-1313497494.179761	FDDNjN1zuFf9ZOsawf	174.128.235.237	147.32.84.165	CfiJpF1PAHDbjSyDuk	HTTP	0	PE	application/x-dosexec	-	0.604829	-	F	7036	26996	19960	0	F	-	-	-	-	-	-	-
+1313497469.830449	FyuwCU6S95f0vDFx5	175.6.0.103	147.32.84.165	C1BgaO2GbhleLmnR55	HTTP	0	PE	application/x-dosexec	-	2.959883	-	F	29200	28487120	46720#close	2019-04-17-21-10-18
+94.179761	FDDNjN1zuFf9ZOsawf	174.128.235.237	147.32.84.165	CfiJpF1PAHDbjSyDuk	HTTP	0	PE	application/x-dosexec	-	0.604829	-	F	7036	26996	19960	0	F	-	-	-	-	-	-	-
 1313497507.028204	FvJigMbyEbf3r7Pgb	174.128.235.237	147.32.84.165	CfiJpF1PAHDbjSyDuk	HTTP	0	PE	application/x-dosexec	-	0.257402	-	F	12874	29184	16310	0	F	-	-	-	-	-	-	-
 1313497694.977939	FFyOxX3YgMO10gUiu	123.125.115.150	147.32.84.165	CglPRBsszxr0A8xR5	HTTP	0	(empty)	text/html	-	0.000025	-	F	3513	3513	0	0	F	-	-	-	-	-	-	-
 1313497707.830024	F4hkF94uCwU9yC4HUi	123.125.115.150	147.32.84.165	CUFptW2Nw0evLzVHHa	HTTP	0	(empty)	text/html	-	0.000019	-	F	3513	3513	0	0	F	-	-	-	-	-	-	-
