@@ -1,45 +1,57 @@
-**Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**
+# README #
 
-When you're done, you can delete the content in this README and update the file with details for others getting started with your repository.
+This project generates bro logs after analysis of packet captures
 
-*We recommend that you open this README in another tab as you perform the tasks below. You can [watch our video](https://youtu.be/0ocf7u76WSo) for a full demo of all the steps in this tutorial. Open the video in a new tab to avoid leaving Bitbucket.*
+###Bro Scripts###
 
----
+* DNS Requests
+* Periodicity
 
-## Edit a file
+## DNS Request
 
-You’ll start by editing this README file to learn how to edit a file in Bitbucket.
+* The scripts are present in the dnsscripts directory
+* This code reads the packet capture and generates the logs for the DNS Failure Summary in the dnslogs directory
+* The log generated has the following parameters in dnsSummary.log
+	- Total no of Dns Req
+	- Total no of Dns Failures
+	- DNS Failure Types Detected
+	- Frequency Of DNS Failed Requests
+	- Total no of NXDomain Failures
+	- Total no of Server Failures
+	- Total no of Refused Requests
+* The modified code for changed timespan of 1 min for analysing the frequency is pesent in the dns1minscripts directory
 
-1. Click **Source** on the left side.
-2. Click the README.md link from the list of files.
-3. Click the **Edit** button.
-4. Delete the following text: *Delete this line to make a change to the README from Bitbucket.*
-5. After making your change, click **Commit** and then **Commit** again in the dialog. The commit page will open and you’ll see the change you just made.
-6. Go back to the **Source** page.
+## Periodicity
 
----
+* The scripts are present in the heartbeatscripts directory
+* This code reads the packet capture and generates the logs for the periodicity in the heartbeatlogs directory
+* The following logs are generated
+	- Heartbeat.log has the following parameters
+		- Total no of packets sent per connection (Src IP, Src Port, Dst IP, Dst Port)
+		- Periodicity of packets sent per connection 
+	- Heartbeat2.log has the following parameters
+		- Total no of http requests per Dst URL
+		- Periodicity of http requests sent per Dst URl
+		- Dst URL
+	- HeartbeatIP.log has the following parameters
+		- Total no of requests sent per connection (Src IP, Src Port, Dst IP, Dst Port)
+		- Periodicity of requests sent in terms of second order difference of time intervals between each request per connection 
+	- HeartbeatURL.log has the following parameters
+		- Total no of requests sent per Dst URL
+		- Periodicity of requests sent in terms of second order difference of time intervals between each request per connection 
+	- Out_log_5.log has the following parameters
+		- Total no of packets sent per HTTP request per Dst URL
+		- Periodicity of packets sent HTTP request per Dst URL
 
-## Create a file
+## File Formats Required
 
-Next, you’ll add a new file to this repository.
+* The pcap files are read and related logs are generated using bro.
 
-1. Click the **New file** button at the top of the **Source** page.
-2. Give the file a filename of **contributors.txt**.
-3. Enter your name in the empty file space.
-4. Click **Commit** and then **Commit** again in the dialog.
-5. Go back to the **Source** page.
+## Steps to Use the code
 
-Before you move on, go ahead and explore the repository. You've already seen the **Source** page, but check out the **Commits**, **Branches**, and **Settings** pages.
-
----
-
-## Clone a repository
-
-Use these steps to clone from SourceTree, our client for using the repository command-line free. Cloning allows you to work on your files locally. If you don't yet have SourceTree, [download and install first](https://www.sourcetreeapp.com/). If you prefer to clone from the command line, see [Clone a repository](https://confluence.atlassian.com/x/4whODQ).
-
-1. You’ll see the clone button under the **Source** heading. Click that button.
-2. Now click **Check out in SourceTree**. You may need to create a SourceTree account or log in.
-3. When you see the **Clone New** dialog in SourceTree, update the destination path and name if you’d like to and then click **Clone**.
-4. Open the directory you just created to see your repository’s files.
-
-Now that you're more familiar with your Bitbucket repository, go ahead and add a new file locally. You can [push your change back to Bitbucket with SourceTree](https://confluence.atlassian.com/x/iqyBMg), or you can [add, commit,](https://confluence.atlassian.com/x/8QhODQ) and [push from the command line](https://confluence.atlassian.com/x/NQ0zDQ).
+* Create a directory and store all the datasets to be analysed
+* Create a directory and store all the scripts to be run on a given dataset
+* Create an empty directory to store all the logs generated
+* Run the python code generaltest.py with the paths to all the above directories in command line arguments as
+>	 python generaltest.py ./DatasetsDirectory ./BroScriptsDirectory ./LogsDirectory
+* The python code will read each dataset in the DatasetsDirectory and for each dataset it will run each bro scipt in the BroScriptsDirectory and will story the logs related to each dataset in a directory inside th LogsDirectory under the name of the dataset.
