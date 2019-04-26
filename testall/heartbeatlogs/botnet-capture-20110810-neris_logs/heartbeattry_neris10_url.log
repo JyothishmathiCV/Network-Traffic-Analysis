@@ -1,0 +1,61 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	heartbeattry
+#open	2019-04-18-13-27-57
+#fields	src	dst	total	secOrdAvg
+#types	addr	string	count	double
+147.32.84.165	cmap.am.ace.advertising.com	6	4.224583
+147.32.84.165	www.zkaoo.com	43	0.504584
+147.32.84.165	googleads.g.doubleclick.net	24	0.505892
+147.32.84.165	www.lddwj.com	136	0.127269
+147.32.84.165	bannerfarm.ace.advertising.com	9	1.419023
+147.32.84.165	ad.yieldmanager.com	40	0.690902
+147.32.84.165	cm.g.doubleclick.net	12	1.163353
+147.32.84.165	www.netygames.com	20	0.919199
+147.32.84.165	61.17.216.4	5	1.523455
+147.32.84.165	cookex.amp.yahoo.com	13	1.504913
+147.32.84.165	r1-ads.ace.advertising.com	79	0.383613
+147.32.84.165	content.yieldmanager.com	10	1.380604
+147.32.84.165	cmap.dc.ace.advertising.com	4	3.611707
+147.32.84.165	ads.pro-market.net	15	1.631987
+147.32.84.165	ads.ad4game.com	31	0.794489
+147.32.84.165	www.funglad.com	16	1.120797
+147.32.84.165	www.generalamuse.com	38	0.314232
+147.32.84.165	cdn.dsultra.com	39	0.746855
+147.32.84.165	www.google-analytics.com	12	1.204248
+147.32.84.165	mail.aol.com	4	1.201935
+147.32.84.165	202.112.126.218	2	0.0
+147.32.84.165	mail.live.com	2	0.0
+147.32.84.165	www.newcarus.com	10	0.850883
+147.32.84.165	a.95622.com	60	0.030607
+147.32.84.165	view.atdmt.com	4	8.616783
+147.32.84.165	oversee.d.chango.com	31	0.628613
+147.32.84.165	content.yieldmanager.edgesuite.net	3	1.277592
+147.32.84.165	riskslot.com	77	0.434384
+147.32.84.165	cms.ad.yieldmanager.net	10	1.640948
+147.32.84.165	61.167.116.133	5	0.686842
+147.32.84.165	adserving.cpxinteractive.com	22	0.941677
+147.32.84.165	my.screenname.aol.com	3	0.788089
+147.32.84.165	pixel.quantserve.com	8	2.943196
+147.32.84.165	ii.ebatmoyhuy.com	3	1.877434
+147.32.84.165	ak1.abmr.net	11	1.582925
+147.32.84.165	finalcortex.com	54	0.010272
+147.32.84.165	uac.advertising.com	16	0.720031
+147.32.84.165	cdn.ad4game.com	39	0.703515
+147.32.84.165	1.95622.com	300	0.051918
+147.32.84.165	tag.admeld.com	2	0.0
+147.32.84.165	adserving.cpxadroit.com	3	1.985581
+147.32.84.165	mewgost.com	10	1.226926
+147.32.84.165	ib.adnxs.com	48	0.459588
+147.32.84.165	61.17.216.86	2	0.0
+147.32.84.165	cmap.an.ace.advertising.com	3	6.327363
+147.32.84.165	221.207.141.60	2	0.0
+147.32.84.165	cmap.rub.ace.advertising.com	5	5.160533
+147.32.84.165	w.nucleardiscover.com:888	10	0.087134
+147.32.84.165	61.150.114.216	4	2.310809
+147.32.84.165	nocomcom.com	6	0.755516
+147.32.84.165	domdex.com	32	0.844052
+147.32.84.165	61.147.99.179:81	2	0.0
+#close	2019-04-18-13-27-57

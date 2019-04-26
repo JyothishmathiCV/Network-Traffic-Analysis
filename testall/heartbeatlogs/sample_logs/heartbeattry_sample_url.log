@@ -1,0 +1,11 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	heartbeattry
+#open	2019-04-18-13-25-43
+#fields	src	dst	total	secOrdAvg
+#types	addr	string	count	double
+192.168.1.189	ds.download.windowsupdate.com	5	0.591664
+192.168.1.189	www.microsoft.com	6	0.146692
+#close	2019-04-18-13-25-44
